@@ -94,5 +94,5 @@ python annihilation.py inspect output.pan
 python annihilation.py decode output.pan restored.bin
 ```
 
-`annihilation.py` contains the search, finite-field operations, root enumeration and codec. `benchmark.py` generates the examples and compares the sizes.
+`main.py` contains the search, finite-field operations, root enumeration and codec. `benchmark.py` generates the examples and compares the sizes.
 
